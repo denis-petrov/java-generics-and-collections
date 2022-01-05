@@ -1,0 +1,4 @@
+You may find it helpful to think of ? extends T as containing every type in an interval
+bounded by the type of null below and by T above (where the type of null is a subtype
+of every reference type). Similarly, you may think of ? super T as containing every type
+in an interval bounded by T below and by Object above
